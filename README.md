@@ -1,7 +1,7 @@
-# [about](https://s9a.github.io/about) [s9a](https://github.com/s9a)
+# [toucan](eye.svg) [dream](https://s9a.page/dream)
 
-* Colorful code creators.
-* Inclusion influencers.
-* Open web believers.
-* Extrasensory HTML.
+* Visualizing streams.
+* Empowering creators.
+* Open web enchanters.
+* Loud HTML.
 * [CSS synesthesia.](https://s9a.github.io)

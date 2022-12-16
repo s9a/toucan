@@ -1,0 +1,20 @@
+::selection {
+  background: deepskyblue;
+  color: #020202;
+}
+
+:any-link { color: royalblue }
+:hover { text-decoration-style: double }
+:focus { outline: thick double }
+
+.mist {
+  background-color: mistyrose;
+  background-image: linear-gradient(mistyrose, aquamarine);
+  color: midnightblue;
+}
+
+.lips {
+  background-color: coral;
+  background-image: linear-gradient(coral, aquamarine);
+  color: #020202;
+}
